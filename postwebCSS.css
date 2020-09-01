@@ -1,0 +1,35 @@
+body{
+    background: url('postmen.jpg') no-repeat;
+    background-size: cover;
+
+    
+}
+#heading{
+    text-shadow: 2px 2px 4px black;
+    text-align: center;
+}
+#nullContain{
+    contain: "";
+}
+#submitButton{
+    box-shadow: 2px 2px 5px rgb(32, 32, 65);
+}
+#plusButton{
+    box-shadow: 2px 2px 5px rgb(32, 32, 65);
+}
+input[type=text]{
+    box-shadow: 2px 2px 4px grey;
+}
+textarea{
+    box-shadow: 2px 2px 4px grey;
+}
+label{
+    text-shadow: 1px 1px 3px grey;
+}
+legend{
+    text-shadow: 1px 1px 3px grey;
+}
+.data-type{
+    text-shadow: 1px 1px 3px grey;
+}
+
